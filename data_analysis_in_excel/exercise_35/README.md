@@ -1,0 +1,1 @@
+Using SUMIF() and AVERAGE()
